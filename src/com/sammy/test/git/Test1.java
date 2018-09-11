@@ -3,6 +3,6 @@ public class Test1 {
 	private static String hello = "Hello World!";
 	public static void main(String[] args){
 	  System.out.println(hello);
-	  System.out.println("Hello World 2!");
+	  System.out.println("Hello World Hawaii!");
 	}
 }
