@@ -5,7 +5,6 @@ public class Test1 {
 	  System.out.println(hello);
 	  System.out.println("Hello World Hawaii!");
 	  System.out.println("one more!");
-	  System.out.println("one more!");
-
+	  //deleted a line
 	}
 }
